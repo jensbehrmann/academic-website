@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PostDoc
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name:  University of Bremen, Center for Industrial Mathematics, Germany
+  url: "http://www.math.uni-bremen.de/zetem/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
