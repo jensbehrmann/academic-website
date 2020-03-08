@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Jens Behrmann
 
 # Username (this should match the folder name)
 authors:
@@ -14,16 +14,16 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Bremen, Center for Industrial Mathematics, Germany
+  url: "http://www.math.uni-bremen.de/zetem/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning: Generative Modeling, Representation Learning, Probabilistic Modeling
+- Medical Image Analysis: Digital Pathology, Imaging Mass Spectrometry, Computed Tomography
+- Mathematical Foundations of Deep Learning
 
 education:
   courses:
